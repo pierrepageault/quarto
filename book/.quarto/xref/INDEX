@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "670ebfa5"
+  },
+  "intro.qmd": {
+    "intro.html": "df515d38"
+  },
+  "summary.qmd": {
+    "summary.html": "36109996"
+  },
+  "references.qmd": {
+    "references.html": "7284de5d"
+  },
+  "Integrales-generalisees.qmd": {
+    "Integrales-generalisees.html": "a5bd36be"
+  },
+  "01-Integrales-generalisees.qmd": {
+    "01-Integrales-generalisees.html": "a8e3cc78"
+  }
+}

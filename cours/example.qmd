@@ -1,0 +1,26 @@
+---
+title: "Cours Example"
+filters:
+  - cours
+---
+
+## Heading
+
+This filter :
+
+1. adds details to examples.
+
+::: {#exm-exemple}
+
+Montrer que l'intégrale $\int_{1}^{+\infty}\frac{dx}{x^{2}}$ converge.
+
+::: {.details}
+
+Revenir à une intégrale partielle.
+
+:::
+
+:::
+
+
+

@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Book_01"
+  author: "Pierre Pageault"
+  date: "2026-2027"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - 01-Integrales-generalisees.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    default-image-extension: svg
+  pdf:
+    documentclass: scrreprt
+    default-image-extension: svg
+
